@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637854393 source:c:\users\sos\desktop\m1-ssi\armo\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
